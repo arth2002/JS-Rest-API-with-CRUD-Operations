@@ -1,2 +1,3 @@
 # JS-Rest-API-with-CRUD-Operations
-Javascript Rest API With CRUD Operation
+
+- create account on https://gorest.co.in/ and get your bearer token and change it in main.js file.
